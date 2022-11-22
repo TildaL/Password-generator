@@ -1,3 +1,57 @@
 body {
     margin: 0;
+    text-align: center;
+}
+
+.container {
+    border: 1px solid red;
+    width: 550px;
+    height: 550px;
+    background-color:#1F2937;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    color: #fff;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.h1color {
+    color: #4ADF86;
+}          
+
+p {
+    color: #D5D4D8;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.btn-container {
+
+}
+
+.btn {
+    padding: 9px 16px;
+    background-color: #10B981;
+    color: #fff ;
+    font-size: 16px;
+    font-weight: 500;
+    border-radius: 6px;
+    border: none;
+    margin-bottom: 35px;
+}
+
+.line {
+    width: 446px;
+    background-color: #2F3E53;
+    /* varför stämmer inte färgen..? */
+    margin-bottom: 35px;
+}
+
+.psw {
+    width: 211px;
+    height: 39px;
+    background-color:  #273549;
 }
